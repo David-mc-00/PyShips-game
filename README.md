@@ -5,8 +5,8 @@ The objective of the game is to kill all the enemies loosing as few health point
 
 Controls:
 
-Move left:       left arrow  
-Move right:      right arrow  
-Shoot:           space  
-Change attack:   x  
-Pause menu:      esc  
+Move left:        left arrow  
+Move right:       right arrow  
+Shoot:            space  
+Change attack:    x  
+Pause menu:       esc  
